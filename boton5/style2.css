@@ -1,0 +1,15 @@
+h1{
+    font-size: 200px;
+    text-align: center;
+    color: white;
+    text-align: center;
+    padding:  1px; ;
+    font-size: 100px;
+    font-family: monospace;
+    background-color: black;
+    border-radius: 25px;
+
+}
+body{
+    background: url(../img/fondo.png);
+}

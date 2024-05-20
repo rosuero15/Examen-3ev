@@ -1,0 +1,73 @@
+body{
+    background-image: url(img/fondo.png);
+    font-family: monospace;
+}
+
+header {
+    margin-left: 400px;
+    margin-right: 400px;
+    color: white;
+    text-align: center;
+    padding:  1px; ;
+    font-size: 50px;
+    font-family: monospace;
+    background-color: black;
+    border-radius: 25px;
+}
+
+p {
+    font-size: 16px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 25px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    height: 100px;
+    width: 205px;
+    font-family: monospace;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+#enlace{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 40px 20px;
+    cursor: pointer;
+    height: 100px;
+    width: 210px;
+    font-family: monospace;
+    text-decoration: none;
+}
+span{
+    height: 100px;
+    width: 205px;
+}
+#enlace:hover{
+    background-color: white;
+    color: black;
+}
+
+footer{
+    text-align: center;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
